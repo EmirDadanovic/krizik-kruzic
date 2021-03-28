@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iks oks", "iks oks.csproj", "{DD908171-025C-46C1-89A3-649020160657}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{55E04EF1-F49C-4008-868E-0DD787832045}"
+	ProjectSection(SolutionItems) = preProject
+		Class1.cs = Class1.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD908171-025C-46C1-89A3-649020160657}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD908171-025C-46C1-89A3-649020160657}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD908171-025C-46C1-89A3-649020160657}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD908171-025C-46C1-89A3-649020160657}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94FDA119-1D8D-4609-B941-5F921805276A}
+	EndGlobalSection
+EndGlobal
